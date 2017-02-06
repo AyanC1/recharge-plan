@@ -1,0 +1,117 @@
+body{
+ background-color: #dee1e5;
+}
+.header{
+	display:block;
+	margin-top:auto;
+	margin-bottom:auto;
+	width:110%;
+}
+.navbar{
+	display: block;
+	width: 100%;
+	height: 122px;
+	background-color: blue;
+	margin-top:auto;
+	margin-bottom:auto;
+}
+.logo{
+	float: left;
+	height:auto;
+	width:auto;
+}
+.buttons{
+	float: right;
+	padding-top: 5.12%;
+	padding-right: 3.2%;
+}
+.btn{
+	background-color:transparent;
+	border: none;
+	height: auto;
+	width: auto;
+	color:#18ff00;
+	margin-right:0%;
+	float: left;
+	
+}
+.btn:hover{	
+	border: bold;
+	border-radius: 10%;
+	background-color: #170b75;	
+}
+.ad{
+		display:none;
+}
+.recharge{
+	margin-top:50px;
+}	
+.lb{
+	float: left;
+}
+.in{
+	float: left;
+	margin-top: 1.46%;
+	margin-left: 7.32%;
+}
+
+.form{
+	margin-left: 8.78%;
+}
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid blue;
+}
+input[type=submit] {
+	background-color:blue;
+	border: none;
+	color: white;
+	padding-bottom:1.46%;
+	padding-top: 1.46%;
+	padding-left: 1.46%;
+	padding-right: 1.46%;
+	border-radius:20%;
+	}
+hr{
+	border-color: green;
+}
+.hr1{
+	border-color: red;
+}
+.hr2{
+	border-color: blue;
+}
+.footer{
+	width:100%;
+	height: 100%;
+	background-color:#cfad0e;
+	display: block-inline;
+}
+.disclaim{
+	width:48%;
+	height: auto;
+	padding-left:7.32%;
+	padding-bottom:8.05%;
+	float:left;
+	/*background-color:#cfad0e;*/
+	background-color: transparent;
+}
+.sns{
+	width:44.5%;
+	height: auto;
+	float:right;
+	/*background-color:#cfad0e;*/
+	background-color: transparent;
+}
+.pln_d_bar{
+	width: 100%;
+	height: auto;
+	color: white;
+	background-color: blue;
+	padding-top:0.36px;
+	padding-bottom:0.36px;
+	text-align: center;
+	font-family: Raleway;
+}
+select{	background-color:transparent;}
